@@ -21,4 +21,4 @@ Python code for the paper *"Predicting childhood and adolescent attention-defici
 
 # Data availability 
 
-**The Public Access to Information and Secrecy Act in Sweden prohibits us from making individual level data publicly available. Researchers who are interested in replicating our work can apply for individual level data at [Statistics Sweden](www.scb.se/en/services/guidance-for-researchers-and-universities/)**.
+**The Public Access to Information and Secrecy Act in Sweden prohibits us from making individual level data publicly available. Researchers who are interested in replicating our work can apply for individual level data at [Statistics Sweden](https://www.scb.se/en/services/guidance-for-researchers-and-universities/)**.
