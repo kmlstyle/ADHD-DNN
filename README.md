@@ -5,7 +5,7 @@ Python code for the paper *"Predicting childhood and adolescent attention-defici
 
 `ML.py` contains the code for the different machine learning models & ensemble model.
 
-`model_weights\best.h5` includes the model weights. Use `tf.keras.models.load_model()` to load the weights. Note that the models expects an array with 22 features in the specified order (see Python code).
+`model_weights\best.h5` includes the model weights. Use `tf.keras.models.load_model()` to load the weights. Note that the models expects an array with 22 features in the specified order (see Python code) and that features need to be scaled. After the model is loaded, use `model.predict(x = scaled_features, batch_size=100000, verbose=0)` to calculate the model predicted probabilities of having ADHD for each individual.
 
 # Requirements
 - Python 3.8.13
