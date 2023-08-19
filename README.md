@@ -1,5 +1,7 @@
 # Predicting childhood and adolescent attention-deficit/hyperactivity disorder onset: a nationwide deep learning approach
-Python code for the paper *"Predicting childhood and adolescent attention-deficit/hyperactivity disorder onset: a nationwide deep learning approach"* (2022) by Miguel Garcia-Argibay, Ph.D., Yanli Zhang-James, MD, Ph.D., Samuele Cortese, MD, Ph.D., Paul Lichtenstein, Ph.D., Henrik Larsson, Ph.D., Stephen V. Faraone, Ph.D.
+
+Python code for the paper: Garcia-Argibay, M., Zhang-James, Y., Cortese, S., Lichtenstein, P., Larsson, H., & Faraone, S. V. (2023). Predicting childhood and adolescent attention-deficit/hyperactivity disorder onset: a nationwide deep learning approach. *Molecular Psychiatry*, 28(3), 1232-1239.
+[[Link to paper]](https://www.nature.com/articles/s41380-022-01918-8)
 
 `DNN.py` contains the Python code for the Deep Neural Network (DNN).
 
@@ -22,3 +24,16 @@ Python code for the paper *"Predicting childhood and adolescent attention-defici
 # Data availability 
 
 **The Public Access to Information and Secrecy Act in Sweden prohibits us from making individual level data publicly available. Researchers who are interested in replicating our work can apply for individual level data at [Statistics Sweden](https://www.scb.se/en/services/guidance-for-researchers-and-universities/)**.
+
+# Citation
+
+    @article{garcia2023predicting,
+      title={Predicting childhood and adolescent attention-deficit/hyperactivity disorder onset: a nationwide deep learning approach},
+      author={Garcia-Argibay, Miguel and Zhang-James, Yanli and Cortese, Samuele and Lichtenstein, Paul and Larsson, Henrik and Faraone, Stephen V},
+      journal={Molecular Psychiatry},
+      volume={28},
+      number={3},
+      pages={1232--1239},
+      year={2023},
+      publisher={Nature Publishing Group UK London}
+    }
